@@ -1,6 +1,9 @@
 test
 ==============================
 
+My project.
+
+
 First cookiecutter project
 
 Project Organization
